@@ -1148,11 +1148,11 @@ Entries:
       - { message: 'Standard Operating Procedure guidebook.', type: Add }
       - { message: 'Getting Started guidebook.', type: Add }
     id: 86
-    time: "2023-01-32T13:14:32.0000000+00:00"
+    time: "2023-01-31T13:14:32.0000000+00:00"
   - author: "Pspritechologist"
     changes:
       - { message: "Prescription glasses now break if thrown, hit, or stepped on.", type: Add }
-      - { message: "Careful when you fall over, and keep an eye on your pockets." type: Add }
+      - { message: "Careful when you fall over, and keep an eye on your pockets.", type: Add }
       - { message: "You wouldn't slip a guy with glasses!", type: Tweak }
     id: 87
     time: "2023-01-31T04:02:30.0000000+00:00"
